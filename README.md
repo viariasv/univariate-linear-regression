@@ -1,3 +1,5 @@
+[![Build Status](https://app.travis-ci.com/viariasv/univariate-linear-regression.svg?branch=main)](https://app.travis-ci.com/viariasv/univariate-linear-regression)
+
 This repository holds the code for the DataCamp course [Unit Testing for Data Science in Python by Dibya Chakravorty](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python). 
 
 Please make sure that you have installed the package `univariate_linear_regression` in this repo using `pip` before running `pytest`. Otherwise, you may get `ImportError`s.
