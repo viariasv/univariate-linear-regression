@@ -1,4 +1,5 @@
 [![Build Status](https://app.travis-ci.com/viariasv/univariate-linear-regression.svg?branch=main)](https://app.travis-ci.com/viariasv/univariate-linear-regression)
+[![codecov](https://codecov.io/gh/viariasv/univariate-linear-regression/branch/main/graph/badge.svg?token=fkDPdgXYyd)](https://codecov.io/gh/viariasv/univariate-linear-regression)
 
 This repository holds the code for the DataCamp course [Unit Testing for Data Science in Python by Dibya Chakravorty](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python). 
 
